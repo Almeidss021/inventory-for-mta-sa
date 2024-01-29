@@ -1,0 +1,28 @@
+<meta>
+	<!--Shared-->
+	<script src='library/shared/global.lua' type='shared' cache='false' />
+
+	<!--Client-->
+	<script src='library/client/main.lua' type='client' cache='false' />
+	<script src='library/client/util_c.lua' type='client' cache='false'/>
+
+	<!--Server-->
+	<script src='library/server/main.lua' type='server' cache='false' />
+
+	<!--font-->
+	<file src='library/assets/font/font.ttf' cache='false'/>
+
+	<!--img-->
+
+
+	<file src='library/assets/img/items/1.png' cache='false'/>
+	<file src='library/assets/img/items/2.png' cache='false'/>
+	<file src='library/assets/img/items/3.png' cache='false'/>
+	<file src='library/assets/img/items/4.png' cache='false'/>
+	<file src='library/assets/img/items/5.png' cache='false'/>
+	<file src='library/assets/img/items/6.png' cache='false'/>
+	<file src='library/assets/img/items/7.png' cache='false'/>
+	<file src='library/assets/img/items/8.png' cache='false'/>
+	<file src='library/assets/img/items/9.png' cache='false'/>
+</meta>
+
